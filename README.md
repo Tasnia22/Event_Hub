@@ -1,21 +1,23 @@
 # 🎉 Event Hub
 
-A full-stack event management platform that allows users to discover, create, and book events seamlessly.
+A full-stack event management platform that enables users to discover, create, manage, and book events through a modern and intuitive web interface.
 
 ---
 
 ## ✨ Features
 
-- 🔐 User Authentication
-- 🎫 Event Booking
-- 🗓️ Event Management
-- 👤 User Dashboard
-- 📱 Responsive Design
+- 🔐 Secure User Authentication
+- 🎟️ Event Creation & Management
+- 📅 Event Booking System
+- 👤 Organizer Dashboard
+- 🎫 QR Code Ticket Generation
+- 💳 Payment Integration
 - 🔎 Search & Filter Events
+- 📱 Fully Responsive Design
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 - React.js
@@ -33,33 +35,45 @@ A full-stack event management platform that allows users to discover, create, an
 
 ## 📸 Application Preview
 
-### Home Page
+### 🏠 Home Page
 
-![Home](./Screenshots/homepage.jpeg)
-
----
-
-### Login Page
-
-![Login](./Screenshots/login.png)
+![Home Page](./Screenshots/homepage.jpeg)
 
 ---
 
-### Organizer Dashboard
+### 🔐 Login Page
 
-![Dashboard](./Screenshots/Organizer_Dashboard.png)
+![Login Page](./Screenshots/login.png)
 
 ---
 
-### Payment
+### 👨‍💼 Organizer Dashboard
 
-![Payment](./Screenshots/payment.png)
+![Organizer Dashboard](./Screenshots/Organizer_Dash_board.png)
+
+---
+
+### 💳 Payment Page
+
+![Payment Page](./Screenshots/payment.png)
+
+---
+
+### 🎟️ Configure Ticket
+
+![Configure Ticket](./Screenshots/configureticket.png)
+
+---
+
+### 🎫 E-Ticket
+
+![E-Ticket](./Screenshots/E_ticket_check.png)
 
 ---
 
 ## 🚀 Installation
 
-### Clone the repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Tasnia22/Event_Hub.git
